@@ -1,0 +1,40 @@
+body{
+    background-color:whitesmoke;
+}
+
+h1{
+    font:95px;
+    color: lightslategrey;
+    font-family: cursive;
+    font: italic;
+
+    border: solid 5px powderblue;
+    padding: 20px 8px 30px 300px;
+}
+
+h2{
+    font:80px;
+    color: gray;
+    font-family: cursive;
+}
+a {font-size: 20px;}
+#navBar {
+    background-color: powderblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 5vh;
+
+}
+
+h3{
+    font:80px;
+    color:black;
+    font-family: cursive;
+    text-decoration: underline;
+}
+h4{
+    font:80px;
+    color:black;
+    font-family: cursive;
+}
